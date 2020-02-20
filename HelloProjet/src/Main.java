@@ -10,4 +10,8 @@ public class Main {
     public void test() {
         System.out.println(11);
     }
+
+    public void add(){
+
+    }
 }
